@@ -1,0 +1,54 @@
+h1 {
+    font-size: 80px;
+    font-weight: 700;
+}
+
+h2 {
+    color:aquamarine
+}
+
+h1, h2 {
+    color: lightcoral;
+    margin: 20px;
+    margin-left: 0px;
+}
+
+body {
+    background-color:rgb(226, 241, 255);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+}
+
+h1, h2, p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    border-radius: 2000px;
+}
+
+#titoloblu {
+    color:blue
+}
+
+.corsivo {
+    font-style: italic;
+}
+
+.yellow {
+    color:darkgoldenrod
+}
+
+a {
+    text-decoration: none;
+    color:rgb(10, 0, 39);
+    transition: 0.3s;
+
+}
+
+a:hover {
+    color:crimson;
+    font-size: larger;
+    transition: 0.3s;
+}
